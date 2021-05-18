@@ -1,0 +1,6 @@
+D:\C#\repos\Crm\RekTec.Crm.HiddenApi.Data\obj\Debug\RekTec.Crm.HiddenApi.Data.csproj.CoreCompileInputs.cache
+D:\C#\repos\Crm\bin\RekTec.Crm.HiddenApi.Data.dll
+D:\C#\repos\Crm\bin\RekTec.Crm.HiddenApi.Data.pdb
+D:\C#\repos\Crm\RekTec.Crm.HiddenApi.Data\obj\Debug\RekTec.Crm.HiddenApi.Data.csproj.CopyComplete
+D:\C#\repos\Crm\RekTec.Crm.HiddenApi.Data\obj\Debug\RekTec.Crm.HiddenApi.Data.dll
+D:\C#\repos\Crm\RekTec.Crm.HiddenApi.Data\obj\Debug\RekTec.Crm.HiddenApi.Data.pdb
